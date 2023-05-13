@@ -1,6 +1,10 @@
 # Yes-bank-stock-closing-price-prediction
 
+![vvvv](https://github.com/Karantiwari307/Yes-bank-stock-closing-price-prediction/assets/111437123/633412d3-a704-46bc-8896-1a5869a07e6e)
+
+
 ## ABOUT PROJECT
+
 
 Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
 ## ABSTRACT:
